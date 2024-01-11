@@ -1,4 +1,8 @@
-# BrandVerse
+# React + Vite
 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-The project is a dynamic and visually engaging React web application that serves as a comprehensive brand hub. Designed with a modern and intuitive user interface, the platform encapsulates the essence of the brand by seamlessly blending aesthetics and functionality. The web page features a responsive navigation system with an aesthetically pleasing logo, providing a memorable brand identity.
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
